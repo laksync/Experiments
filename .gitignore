@@ -1,0 +1,14 @@
+# Node packages
+node_modules/
+
+# C++
+*.exe
+*.obj
+*.pdb
+*.ilk
+
+# VS Code
+.vscode/
+
+# Environment variables
+.env
