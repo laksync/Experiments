@@ -1,0 +1,17 @@
+# Executables
+*.exe
+
+# Object files
+*.obj
+*.o
+
+# Debug files
+*.pdb
+*.ilk
+
+# Visual Studio files
+*.idb
+*.ipch
+
+# Temporary
+*.log
